@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "343074245266",
+    "project_id": "admissioncounsellingapp",
+    "storage_bucket": "admissioncounsellingapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343074245266:android:60820e1cc93dbc401a344b",
+        "android_client_info": {
+          "package_name": "com.example.admissioncounsellingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "343074245266-rgoffggl4aslld5vb2icde467q2shin6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.admissioncounsellingapp",
+            "certificate_hash": "ecf8bf5971920437a68a339de2faee95cf10ae4f"
+          }
+        },
+        {
+          "client_id": "343074245266-26ou5c4h77qgnu3l57hol2k3b29cvd8q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFYlbl42nlX7O-LUtdnVqjE_9FrEj2h8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "343074245266-26ou5c4h77qgnu3l57hol2k3b29cvd8q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
